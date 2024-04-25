@@ -1,2 +1,5 @@
-.env
+.env.MONGO_URI
+.env.JWT_SECRET
+.env.JWT_SECRETR
+.env.PORT
 /node_modules
